@@ -75,7 +75,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  #wsite-menus .wsite-menu li a { background: transparent; color: #000000; font-family: "brandon-grotesque", sans-serif; font-size: 12px; font-weight: normal; line-height: normal; text-transform: uppercase; letter-spacing: 0.05em; border: none; }
  #wsite-menus .wsite-menu li a:hover { opacity: 0.6; background: transparent; -webkit-transition: opacity 200ms ease; -moz-transition: opacity 200ms ease; -ms-transition: opacity 200ms ease; transition: opacity 200ms ease; }
  #wsite-menus .wsite-menu-arrow { display: none; }
- .wsite-header-section, .banner-wrap.wsite-background { background: url(theme/images/default-bg.jpg?1523558889) no-repeat center center; background-size: cover; }
+ .wsite-header-section, .banner-wrap.wsite-background { background: url(theme/images/default-bg.jpg?1523561636) no-repeat center center; background-size: cover; }
  .header-page .wsite-header-section { height: 600px; }
  body.sticky-nav-on .wsite-header-section { height: 720px; }
  body.sticky-nav-on:not(.splash-page) .banner-wrap .container { padding: 180px 40px 60px; }
@@ -93,7 +93,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .wsite-form-input, .wsite-search-element-input, .form-select, .wsite-form-field select, .wsite-com-product-option-groups select { height: auto; max-width: 370px; padding: 10px 20px !important; margin-bottom: 10px; background: transparent; border: 1px solid rgba(0,0,0,0.2); }
  .wsite-form-input:hover, .wsite-search-element-input:hover, .form-select:hover, .wsite-form-field select:hover, .wsite-com-product-option-groups select:hover { border-color: #000000; }
  .wsite-form-input:focus, .wsite-form-input--focus, .wsite-search-element-input:focus, .form-select:focus, .wsite-form-field select:focus, .wsite-com-product-option-groups select:focus { border-bottom: 1px solid #000000; }
- .form-select, .wsite-form-field select, .wsite-com-product-option-groups select { text-indent: 0.01px; text-overflow: ''; height: 40px; background: transparent url(theme/images/select-dropdown.png?1523558889) 97% center no-repeat; }
+ .form-select, .wsite-form-field select, .wsite-com-product-option-groups select { text-indent: 0.01px; text-overflow: ''; height: 40px; background: transparent url(theme/images/select-dropdown.png?1523561636) 97% center no-repeat; }
  input[type='radio'], input[type='checkbox'] { width: 20px; height: 20px; border: 1px solid rgba(0,0,0,0.3) !important; }
  input[type='radio']:hover, input[type='radio']:checked, input[type='checkbox']:hover, input[type='checkbox']:checked { border-color: #000000 !important; }
  input[type='radio'] { border-radius: 100%; }
